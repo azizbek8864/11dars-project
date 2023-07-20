@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.hero {
+  background-color: #08546c;
+  width: 100%;
+  max-width: 1900px;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.header-logo {
+  margin-left: 100px;
+}
+.header-services {
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+.header-link {
+  display: flex;
+  margin-left: 50px;
+  color: #a1b5bb;
+  text-decoration: none;
+}
+.header-button {
+  background-color: #145e76;
+  border-radius: 30px;
+  border: 2px #145e76 solid;
+  width: 140px;
+  height: 58px;
+  margin-left: 1100px;
+  color: white;
+}
+.header-musa {
+  margin-left: 100px;
+  margin-top: 10px;
+  color: #fff;
+  line-height: normal;
+  background-color: cadetblue;
+  border-radius: 30px;
+  border: burlywood;
+  width: 195px;
+  height: 65px;
+  font-size: 24px;
+}
+.header-brands {
+  color: #fff;
+  font-family: Inter;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 80px;
+  margin-left: 100px;
+}
+.header-text {
+  color: #849499;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28.8px;
+  margin-left: 100px;
+}
+.header-hire-me {
+  width: 137px;
+  height: 61px;
+  border-radius: 25px;
+  background: #ffa63a;
+  font-size: 24px;
+  color: white;
+  border: #ffa63a solid 1px;
+  margin-left: 100px;
+}
+.header-my-work {
+  color: #b6cdd4;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28.8px;
+  background-color: #08546c;
+  border: #08546c 1px solid;
+  margin-left: 100px;
+}
+.header-img {
+  width: 599px;
+  height: 730px;
+  margin-left: 500px;
+  margin-top: -450px;
+}
+
+.main {
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1900px;
+}
+.main-statistic {
+  border-radius: 30px;
+  background: #fff;
+  box-shadow: 0px 5px 30px 0px;
+  width: 500px;
+  height: 100px;
+  margin-left: 500px;
+  color: #265a6a;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 22.4px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-ul {
+  display: flex;
+  justify-content: space-around;
+}
+.main-link {
+  display: flex;
+  margin-left: 100px;
+  justify-content: space-around;
+}
